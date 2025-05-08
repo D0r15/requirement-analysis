@@ -61,3 +61,13 @@ Enhances software quality
 Guides design and testing
 
 Ensures alignment with business goals
+
+### Why is Requirement Analysis Important?
+1. Defines Project Scope and Prevents Scope Creep
+Requirement analysis helps clearly outline what the system should and shouldn’t do. This prevents scope creep—the uncontrolled expansion of project features—by setting clear boundaries from the beginning. A well-defined scope keeps the project focused and manageable.
+
+2. Improves Communication Between Stakeholders
+It acts as a bridge between technical teams and non-technical stakeholders (e.g., clients, users, managers). By translating business needs into technical requirements, it ensures everyone has a shared understanding of the goals and expectations, reducing confusion and rework.
+
+3. Reduces Costs and Saves Time
+Detecting errors or misunderstandings during the requirement phase is much cheaper and faster than fixing them during development or after deployment. Requirement analysis helps catch issues early, minimizing costly redesigns or delays.
